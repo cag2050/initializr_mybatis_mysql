@@ -1,6 +1,6 @@
 package com.cag.entity;
 
-public class User {
+public class Usertest {
     private Integer id;
 
     private String username;

@@ -3,14 +3,14 @@ package com.cag.entity;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UserExample {
+public class UsertestExample {
     protected String orderByClause;
 
     protected boolean distinct;
 
     protected List<Criteria> oredCriteria;
 
-    public UserExample() {
+    public UsertestExample() {
         oredCriteria = new ArrayList<Criteria>();
     }
 
