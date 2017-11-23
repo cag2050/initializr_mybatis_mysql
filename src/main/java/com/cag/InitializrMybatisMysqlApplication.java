@@ -1,4 +1,4 @@
-package com.cag.java;
+package com.cag;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
